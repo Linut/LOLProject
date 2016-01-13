@@ -13,7 +13,7 @@ body{
 	padding: 0 10px;
 }
 .wraper{
-	background:url(images/main-bg-v5.jpg) center top no-repeat;
+	background:url(../images/main-bg-v5.jpg) center top no-repeat;
 }
 
 #background{
@@ -30,7 +30,7 @@ body{
 	margin:0 auto;
 	position:relative;
 	height:464px;
-	background-image: url(images/main-top-v5.jpg);
+	background-image: url(../images/main-top-v5.jpg);
 	background-position: center top;
 }
 
@@ -112,7 +112,7 @@ ul.first-nav>li{
 	position: absolute;
 	top:20px;
 	right:-18px;
-	background:url(images/glory.png) no-repeat;
+	background:url(../images/glory.png) no-repeat;
 	padding-top: 70px;
 	padding-left: 10px;
 	text-align: left;
@@ -514,7 +514,7 @@ ul.first-nav>li{
 	line-height: 37px;
 	height: 37px;
 	border-radius: 5px;
-	background-image: url("images/mainspr_33.png");
+	background-image: url("../images/mainspr_33.png");
 	background-position: center top;
 	color:#fff;
 	font-weight: bold;
